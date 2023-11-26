@@ -1,1 +1,19 @@
-A
+#install the packages
+install.packages("tidyverse")
+install.packages("lubridate")
+install.packages("hms")
+install.packages("janitor")
+install.packages("readr")
+install.packages("data.table")
+install.packages("ggplot2")
+install.packages("dplyr")
+
+#load libraries needed to manipulate the data
+library("tidyverse")
+library("lubridate")
+library("hms")
+library("janitor")
+library("readr")
+library("data.table")
+library("ggplot2")
+library("dplyr")
